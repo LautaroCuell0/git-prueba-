@@ -31,6 +31,5 @@ const eliminarproducto = () =>{
     const resultado = carrito.splice(carrito.indexOf(eliminar))
     alert("Se elimino " + eliminar)
 }
-//let hola
 
 
